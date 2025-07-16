@@ -1,4 +1,4 @@
-README – NVIDIA NCA‑GENL Certification Preparation
+NVIDIA NCA‑GENL Certification Preparation
 =================================================
 
 🎯 Goal
