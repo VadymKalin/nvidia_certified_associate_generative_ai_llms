@@ -11,7 +11,7 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
 - **Format**: 50–60 multiple-choice questions  
 - **Duration**: 60 minutes  
 - **Cost**: $125  
-- **Validity**: 2 years, recertification via exam retake  [oai_citation:0‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com)  
+- **Validity**: 2 years, recertification via exam retake
 
 📚 Who Should Take It
 ----------------------
@@ -19,7 +19,7 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
 - Data Scientists
 - Developers & DevOps Engineers
 - LLM & Prompt‑Engineering Specialists
-- AI Strategy and Architecture Roles  [oai_citation:1‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/?utm_source=chatgpt.com) [oai_citation:2‡NVIDIA](https://www.nvidia.com/en-us/learn/learning-path/generative-ai-llm/?utm_source=chatgpt.com) [oai_citation:3‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com)
+- AI Strategy and Architecture Roles
 
 📖 Exam Blueprint & Focus Areas
 -------------------------------
@@ -30,7 +30,7 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
 | Experiment design & evaluation         | ~22%   |
 | Data analysis & visualization          | ~10%   |
 | Prompt engineering & alignment         | included in topics |
-| Deployment and integration             | included in topics  [oai_citation:4‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com) |
+| Deployment and integration             | included in topics  
 
 🛠 Recommended Preparation Resources
 ------------------------------------
@@ -39,17 +39,17 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
   • Getting Started With Deep Learning ($90, 8 hrs)  
   • Introduction to Transformer‑Based NLP ($30, 6 hrs)  
   • Building LLM Applications with Prompt Engineering ($90, 8 hrs)  
-  • Rapid Application Development With LLMs ($90, 8 hrs)  [oai_citation:5‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com)  
+  • Rapid Application Development With LLMs ($90, 8 hrs)  
 
 - **Instructor‑Led Workshops:**  
   • Fundamentals of Deep Learning (8 hrs, $500)  
   • Transformer‑Based NLP Applications (8 hrs, $500)  
   • Prompt Engineering workshop (8 hrs, $500)  
-  • Rapid LLM Development workshop (8 hrs, $500)  [oai_citation:6‡NVIDIA](https://www.nvidia.com/en-us/learn/learning-path/generative-ai-llm/?utm_source=chatgpt.com) [oai_citation:7‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com)  
-
+  • Rapid LLM Development workshop (8 hrs, $500)
+  
 ### Additional Study Materials  
-- NVIDIA blogs & video sessions on LLM fundamentals, RAG, Trustworthy AI  [oai_citation:8‡NVIDIA](https://www.nvidia.com/en-us/learn/certification/generative-ai-llm-associate/?utm_source=chatgpt.com)  
-- NVIDIA’s Generative AI Teaching Kit (if available) with labs, notebooks, discount offers  [oai_citation:9‡NVIDIA Developer](https://developer.nvidia.com/blog/nvidia-deep-learning-institute-releases-new-generative-ai-teaching-kit/?utm_source=chatgpt.com)  
-
+- NVIDIA blogs & video sessions on LLM fundamentals, RAG, Trustworthy AI  
+- NVIDIA’s Generative AI Teaching Kit (if available) with labs, notebooks, discount offers  
+  
 📂 Repo Structure (Suggested)
 ------------------------------
