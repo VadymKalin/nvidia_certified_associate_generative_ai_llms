@@ -8,7 +8,7 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
 📌 Certification Details
 -------------------------
 - **Exam Code**: NCA‑GENL (Associate level)  
-- **Format**: 50–60 multiple-choice questions  
+- **Format**: 50–60 multiple-choice questions (51 questions) 
 - **Duration**: 60 minutes  
 - **Cost**: $125  
 - **Validity**: 2 years, recertification via exam retake
