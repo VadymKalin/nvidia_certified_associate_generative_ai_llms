@@ -51,4 +51,3 @@ Prepare effectively for the **NVIDIA Certified Associate: Generative AI LLMs** o
 - NVIDIA blogs & video sessions on LLM fundamentals, RAG, Trustworthy AI  
 - NVIDIA’s Generative AI Teaching Kit (if available) with labs, notebooks, discount offers
   
-  
